@@ -35,6 +35,6 @@ A lightweight web extension that restructures text directly inside AI chat inter
 
 ---
 
-## 📄 License
+## 📄 [License](./LICENSE)
 
-MIT © Muskan Kushwah
+© [Martian0612](https://github.com/Martian0612)
